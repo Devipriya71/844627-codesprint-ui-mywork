@@ -1,11 +1,16 @@
 My associate id:
 844627
 
+Other team members:
+844603, 844551, 844561, 844513
+
 Team lead:
 844603
 
 My Role in team:
 1. To develop validations for contactus and placeappointment page.
+2. To create some part of html in placeappointment page.
+
 My development files:
 1. PlaceAppointment.html
 2. script.js
